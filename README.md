@@ -13,4 +13,4 @@
 - Генерация трека
 
 ## Демо
-[![Demo](https://img.youtube.com/vi/F6-di7aN69E/0.jpg)](https://www.youtube.com/watch?v=F6-di7aN69E)
+- [video](https://www.youtube.com/watch?v=F6-di7aN69E)
