@@ -13,4 +13,4 @@
 - Генерация трека
 
 ## Демо
-![](https://github.com/ImmortalSt/DriftRacing/blob/c30f89086585d9d37ad4e4a3d741be6f8e3cc468/DriftRacing.mp4)
+https://github.com/ImmortalSt/DriftRacing/blob/c30f89086585d9d37ad4e4a3d741be6f8e3cc468/DriftRacing.mp4
